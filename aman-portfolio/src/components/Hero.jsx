@@ -45,7 +45,7 @@ className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 t
       />
 
       <img
-        src="/images/profile.jpg"
+        src="/images/profile.png"
         alt="Aman Rai"
         className="mx-auto mb-6 w-32 h-32 rounded-full border-4 border-white shadow-xl hover:scale-105 transition duration-300"
       />
@@ -66,7 +66,7 @@ className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 t
         transition={{ delay: 0.5, duration: 0.8 }}
       >
         <ReactTyped
-          strings={["Software Engineer", "Artificial Intelligence Enthusiast", "Spring Boot Developer", "MERN Stack Developer"]}
+          strings={["Software Engineer", "Spring Boot Developer", "MERN Stack Developer", "Artificial Intelligence Enthusiast"]}
           typeSpeed={50}
           backSpeed={30}
           loop
