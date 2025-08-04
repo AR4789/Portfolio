@@ -8,21 +8,12 @@ const experiences = [
     location: "Noida, India",
     period: "Mar. 2024 – Present",
     details: [
-      "Refactored a Spring Boot-based backend and React frontend, improving performance by 20%.",
-      "Implemented Docker-based containerization and Jenkins CI/CD pipelines to streamline deployments.",
-      "Developed RESTful APIs and microservices using Spring Boot and Node.js.",
-      "Collaborated with cross-functional teams to resolve production issues and enhance system stability."
-    ]
-  },
-  {
-    title: "Associate Software Engineer I",
-    company: "Rxlogix Corp. Pvt. Ltd.",
-    location: "Noida, India",
-    period: "Mar. 2023 – Mar. 2024",
-    details: [
-      "Designed scalable backend systems using Java and the MERN stack to support data-driven workflows.",
-      "Implemented authentication and authorization using JWT, strengthening system security.",
-      "Documented backend architecture and created technical guides to improve team knowledge sharing."
+      "Designing, developing, and maintaining Java and React-based applications using modern frameworks and technologies.",
+      "Integrating Java services with databases, RESTful web services, and external APIs to support critical business workflows.",
+      "Writing clean, modular, and scalable code following industry best practices and established coding standards.",
+      "Collaborating with cross-functional teams including QA, DevOps, and UI/UX designers to ensure timely and high-quality project delivery."
+
+
     ]
   }
 ];
