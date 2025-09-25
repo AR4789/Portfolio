@@ -34,7 +34,7 @@ const projects = [
     technologies: "Node.js, Next.js, PostgreSQL, GCP, Terraform, Docker, GitHub Actions",
     intro: "Full-stack campaign creator to design campaigns, generate leads, and export dashboards.",
     github: "https://github.com/AR4789/CampaignsGenerator",
-    liveDemo: null,
+    liveDemo: "https://inova-web-zdfnnfsjza-uc.a.run.app",
     // thumbnail: "/images/campaigns.png",
     details: [
       "Designed a full-stack campaign management application with lead generation and CSV export.",
