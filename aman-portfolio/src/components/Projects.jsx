@@ -30,6 +30,33 @@ const projects = [
     ]
   },
   {
+    title: "Campaigns Generator",
+    technologies: "Node.js, Next.js, PostgreSQL, GCP, Terraform, Docker, GitHub Actions",
+    intro: "Full-stack campaign creator to design campaigns, generate leads, and export dashboards.",
+    github: "https://github.com/AR4789/CampaignsGenerator",
+    liveDemo: null,
+    // thumbnail: "/images/campaigns.png",
+    details: [
+      "Designed a full-stack campaign management application with lead generation and CSV export.",
+      "Integrated seamless one-push deployment using Docker, GCP, Terraform, and GitHub Actions.",
+      "Automated campaign workflows and optimized data handling for large-scale operations."
+    ]
+  },
+
+  {
+    title: "CodePilot",
+    technologies: "Java, Spring Boot, React, MongoDB, DeepSeek, LLaMA",
+    intro: "AI-powered code review assistant providing suggestions, optimizations, and error checks.",
+    github: "https://github.com/AR4789/CodePilot",
+    liveDemo: null,
+    // thumbnail: "/images/codepilot.png",
+    details: [
+      "Built an AI-driven code review tool integrating DeepSeek and LLaMA models for insights.",
+      "Supports Java, Spring Boot, and frontend React projects for comprehensive feedback.",
+      "Provides intelligent suggestions, error detection, and code optimization tips."
+    ]
+  },
+  {
     title: "TripMate",
     technologies: "Node.js, Express.js, MongoDB, React, Mongoose, Tailwind CSS, AI Integration",
     intro: "An intelligent travel planner with real-time tracking, AI suggestions, and secure login.",
