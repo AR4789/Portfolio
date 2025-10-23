@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my professional background, technical skills, and key projects as a Software Engineer with expertise in Java, Spring Boot, MERN stack, and DevOps tools.
 
-🔗 **Live Demo**: [Visit Portfolio](https://your-live-site-link.com)
+🔗 **Live Demo**: [Visit Portfolio](https://amanrai-porfolio.netlify.app/)
 
 ---
 
