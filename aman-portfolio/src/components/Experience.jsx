@@ -2,20 +2,20 @@ import React from 'react'
 import { motion } from 'framer-motion'
 
 const experiences = [
-  {
-    title: "Associate Software Engineer II",
-    company: "Rxlogix Corp. Pvt. Ltd.",
-    location: "Noida, India",
-    period: "Mar. 2024 – Present",
-    details: [
-      "Designing, developing, and maintaining Java and React-based applications using modern frameworks and technologies.",
-      "Integrating Java services with databases, RESTful web services, and external APIs to support critical business workflows.",
-      "Writing clean, modular, and scalable code following industry best practices and established coding standards.",
-      "Collaborating with cross-functional teams including QA, DevOps, and UI/UX designers to ensure timely and high-quality project delivery."
+{
+  title: "Associate Software Engineer II",
+  company: "Rxlogix Corp. Pvt. Ltd.",
+  location: "Noida, India",
+  period: "Mar. 2024 – Present",
+  details: [
+    "Architecting and developing scalable Java (Spring Boot) microservices and React-based frontend modules for enterprise-grade pharmacovigilance applications.",
+    "Designed and optimized REST APIs handling high-volume data processing with improved response time and database efficiency.",
+    "Integrated backend systems with PostgreSQL/Oracle databases, external APIs, and asynchronous job workflows to support critical business operations.",
+    "Led feature development from requirement analysis to deployment, ensuring clean architecture, modular design, and production stability.",
+    "Collaborated closely with QA, DevOps, and cross-functional teams to streamline CI/CD pipelines and deliver high-quality releases on schedule."
+  ]
+}
 
-
-    ]
-  }
 ];
 
 function Experience() {

@@ -16,6 +16,19 @@ const projects = [
       "Secure backend with authentication, post creation, chat, and feed rendering."
     ]
   },
+    {
+  title: "AI Resume Agent",
+  technologies: "Python, LangChain, Ollama, LLaMA, React, ATS Optimization",
+  intro: "An AI-powered resume optimization agent that tailors resumes to match job descriptions and ATS standards.",
+  github: "https://github.com/AR4789/Resume_Agent", // update if needed
+  liveDemo: null,
+  // thumbnail: "/images/ai-resume-agent.png",
+  details: [
+    "Built an intelligent agent that analyzes resumes against job descriptions and generates ATS-optimized versions.",
+    "Integrated LLaMA models via Ollama with LangChain for prompt orchestration and semantic keyword matching.",
+    "Developed a React-based interface for uploading resumes and JDs with automated tailored resume generation."
+  ]
+},
   {
     title: "Autopilot",
     technologies: "Java, Spring Boot, React, MongoDB",
@@ -68,20 +81,7 @@ const projects = [
       "Secure user authentication using JWT and bcrypt.",
       "AI and Google Maps integration for smart destination suggestions."
     ]
-  },
-  {
-  title: "AI Resume Agent",
-  technologies: "Python, LangChain, Ollama, LLaMA, React, ATS Optimization",
-  intro: "An AI-powered resume optimization agent that tailors resumes to match job descriptions and ATS standards.",
-  github: "https://github.com/AR4789/Resume_Agent", // update if needed
-  liveDemo: null,
-  // thumbnail: "/images/ai-resume-agent.png",
-  details: [
-    "Built an intelligent agent that analyzes resumes against job descriptions and generates ATS-optimized versions.",
-    "Integrated LLaMA models via Ollama with LangChain for prompt orchestration and semantic keyword matching.",
-    "Developed a React-based interface for uploading resumes and JDs with automated tailored resume generation."
-  ]
-}
+  }
 ];
 
 function Projects() {
