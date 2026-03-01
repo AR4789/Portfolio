@@ -8,7 +8,7 @@ const experiences = [
   location: "Noida, India",
   period: "Mar. 2024 – Present",
   details: [
-    "Architecting and developing scalable Java (Spring Boot) microservices and React-based frontend modules for enterprise-grade pharmacovigilance applications.",
+    "Architecting and developing scalable Java (Spring Boot) microservices and MERN modules for enterprise-grade pharmacovigilance applications.",
     "Designed and optimized REST APIs handling high-volume data processing with improved response time and database efficiency.",
     "Integrated backend systems with PostgreSQL/Oracle databases, external APIs, and asynchronous job workflows to support critical business operations.",
     "Led feature development from requirement analysis to deployment, ensuring clean architecture, modular design, and production stability.",
