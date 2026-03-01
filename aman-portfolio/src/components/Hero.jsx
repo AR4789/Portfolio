@@ -47,7 +47,7 @@ className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 t
       <img
         src="/images/profile.png"
         alt="Aman Rai"
-        className="mx-auto mb-6 w-56 h-56 rounded-full border-4 border-white shadow-xl hover:scale-105 transition duration-300"
+        className="mx-auto mb-6 w-60 h-60 rounded-full border-4 border-white shadow-xl hover:scale-105 transition duration-300"
       />
 
       <motion.h1
