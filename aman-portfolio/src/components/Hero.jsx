@@ -12,7 +12,7 @@ function Hero() {
 
   return (
     <motion.section
-className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 text-white py-32 px-6 text-center overflow-hidden"
+      className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 text-white py-32 px-6 text-center overflow-hidden"
       initial={{ opacity: 0, y: -50 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8 }}
@@ -66,7 +66,11 @@ className="relative bg-gradient-to-br from-cyan-700 via-blue-800 to-indigo-900 t
         transition={{ delay: 0.5, duration: 0.8 }}
       >
         <ReactTyped
-          strings={["Software Engineer", "Java Developer", "MERN Stack Developer", "Artificial Intelligence Enthusiast"]}
+          strings={["Software Engineer",
+            "Cloud Engineer (AWS)",
+            "Backend & Microservices Developer",
+            "MERN Stack Developer",
+            "DevOps & CI/CD Enthusiast"]}
           typeSpeed={50}
           backSpeed={30}
           loop

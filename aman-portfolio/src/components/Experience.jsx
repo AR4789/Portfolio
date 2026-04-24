@@ -3,16 +3,16 @@ import { motion } from 'framer-motion'
 
 const experiences = [
 {
-  title: "Associate Software Engineer II",
+  title: "Software Engineer",
   company: "Rxlogix Corp. Pvt. Ltd.",
   location: "Noida, India",
-  period: "Mar. 2024 – Present",
+  period: "Mar. 2023 – Present",
   details: [
-    "Architecting and developing scalable Java (Spring Boot) microservices and MERN modules for enterprise-grade pharmacovigilance applications.",
-    "Designed and optimized REST APIs handling high-volume data processing with improved response time and database efficiency.",
-    "Integrated backend systems with PostgreSQL/Oracle databases, external APIs, and asynchronous job workflows to support critical business operations.",
-    "Led feature development from requirement analysis to deployment, ensuring clean architecture, modular design, and production stability.",
-    "Collaborated closely with QA, DevOps, and cross-functional teams to streamline CI/CD pipelines and deliver high-quality releases on schedule."
+"Architecting and developing scalable Java (Spring Boot) microservices and MERN modules for enterprise-grade applications, with deployments on AWS cloud infrastructure.",
+"Designed and optimized REST APIs for high-volume data processing, improving response time and leveraging Docker and Kubernetes for efficient scaling.",
+"Integrated backend systems with PostgreSQL/Oracle databases, external APIs, and asynchronous workflows, utilizing cloud-native patterns for reliability and performance.",
+"Led end-to-end feature development from requirement analysis to production deployment, implementing CI/CD pipelines using Jenkins and container orchestration.",
+"Collaborated with QA, DevOps, and cross-functional teams to automate build and deployment processes, enhancing system reliability and cloud infrastructure efficiency."
   ]
 }
 

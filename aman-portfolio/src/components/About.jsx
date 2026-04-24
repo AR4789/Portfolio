@@ -19,15 +19,14 @@ function About() {
       <div className="relative z-10 bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-8 border-2 border-transparent bg-clip-padding bg-gradient-to-br from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900">
         <h2 className="text-3xl font-bold mb-4 text-blue-700 dark:text-blue-400">About Me</h2>
         <p className="text-lg leading-8 tracking-wide font-light text-gray-700 dark:text-gray-300">
-Software Engineer with 3+ years of experience building high-performance, scalable applications using Java, Spring Boot, and the MERN stack. I specialize in designing robust microservices, optimizing system performance, and automating deployments with Docker and Jenkins.
+          Software Engineer with 3+ years of experience building scalable, high-performance applications using Java, Spring Boot, and the MERN stack, with hands-on expertise in AWS cloud environments. Skilled in designing robust microservices, optimizing system performance, and implementing containerized deployments using Docker, Kubernetes, and CI/CD pipelines with Jenkins.
 
-Beyond backend engineering, I craft seamless user experiences with React and believe in writing clean, maintainable code that delivers real business impact. Passionate about solving complex problems, continuously learning, and building products that scale.        </p>
+          Beyond backend engineering, I develop seamless user experiences with React and focus on writing clean, maintainable code that drives real business impact. Passionate about solving complex problems, leveraging cloud-native architectures, and building resilient systems that scale efficiently.    </p>
         <ReactTyped
           strings={[
-            "I love solving real-world problems with code and collaborating with passionate teams.",
-            "I build efficient backend systems that power real user experiences.",
-            "I thrive on debugging, optimizing, and deploying meaningful software."
-          ]}
+            "I enjoy solving real-world problems through scalable software and cloud-native solutions while collaborating with high-performing teams.",
+            "I build efficient backend systems and deploy them on AWS using containerization and orchestration tools like Docker and Kubernetes.",
+            "I thrive on debugging, optimizing, and delivering production-ready applications through robust CI/CD pipelines and cloud infrastructure."]}
           typeSpeed={40}
           backSpeed={20}
           backDelay={3000}
